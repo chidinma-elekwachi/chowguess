@@ -364,7 +364,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        <span>Made with a little zest <span className="footer-heart">♥</span></span>
+        <span>Made by Chidinma @thejavabeast </span>
         <span>Good food should feel good.</span>
       </footer>
     </main>
